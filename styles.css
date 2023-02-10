@@ -71,7 +71,7 @@ h2:after {
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: #2ecc71;
+    background-color: #53ff9b;
 }
 
 .field {
@@ -111,7 +111,7 @@ h2:after {
 }
 
 .btn:hover {
-    background-color: #27ae60;
+    background-color: #229c55;
 }
 
 
