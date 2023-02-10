@@ -71,7 +71,7 @@ h2:after {
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: #53ff9b;
+    background-color: #42dc82;
 }
 
 .field {
@@ -102,7 +102,7 @@ h2:after {
     width: 100%;
     padding: 0.5rem 1rem;
     font-size: 1.1rem;
-    background-color: #53ff9b;
+    background-color: #42dc82;
     cursor: pointer;
     outline: none;
     border: none;
